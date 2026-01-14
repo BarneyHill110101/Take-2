@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Café at the Cross",
+  "description": "A modern, peaceful website for Café at the Cross, a hidden gem set within a historic church in the heart of Chester.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
